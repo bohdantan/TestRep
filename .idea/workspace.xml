@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa35966-abb3-4d9f-8af0-ef1fb7ac57ca" name="Default" comment="" />
+    <list default="true" id="2fa35966-abb3-4d9f-8af0-ef1fb7ac57ca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TestP.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +70,7 @@
       <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="115" selection-end="115" vertical-scroll-proportion="0.1364366" vertical-offset="0" max-vertical-offset="623">
+            <state line="5" column="8" selection-start="115" selection-end="115" vertical-scroll-proportion="0.136876" vertical-offset="0" max-vertical-offset="621">
               <folding />
             </state>
           </provider>
@@ -79,6 +82,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -93,7 +99,7 @@
     <option name="width" value="1296" />
     <option name="height" value="776" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -372,7 +378,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="115" selection-end="115" vertical-scroll-proportion="0.1364366" vertical-offset="0" max-vertical-offset="623">
+        <state line="5" column="8" selection-start="115" selection-end="115" vertical-scroll-proportion="0.136876" vertical-offset="0" max-vertical-offset="621">
           <folding />
         </state>
       </provider>
